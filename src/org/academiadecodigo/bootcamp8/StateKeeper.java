@@ -1,8 +1,8 @@
 package org.academiadecodigo.bootcamp8;
 
-import org.academiadecodigo.bootcamp8.Grid.Grid;
-import org.academiadecodigo.bootcamp8.Grid.GridColor;
-import org.academiadecodigo.bootcamp8.Grid.GridPosition;
+import org.academiadecodigo.bootcamp8.grid.Grid;
+import org.academiadecodigo.bootcamp8.grid.GridColor;
+import org.academiadecodigo.bootcamp8.grid.GridPosition;
 
 import java.io.*;
 

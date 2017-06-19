@@ -1,6 +1,6 @@
 package org.academiadecodigo.bootcamp8;
 
-import org.academiadecodigo.bootcamp8.Grid.Grid;
+import org.academiadecodigo.bootcamp8.grid.Grid;
 import org.academiadecodigo.simplegraphics.keyboard.Keyboard;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardEvent;
 import org.academiadecodigo.simplegraphics.keyboard.KeyboardEventType;

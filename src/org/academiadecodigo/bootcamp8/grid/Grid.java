@@ -1,11 +1,10 @@
-package org.academiadecodigo.bootcamp8.Grid;
+package org.academiadecodigo.bootcamp8.grid;
 
 import org.academiadecodigo.simplegraphics.graphics.Rectangle;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.ListIterator;
 
 /**
  * Created by Prashanta on 31/05/17.
